@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Tumbuhan7
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - S
+    - K
+    - L
+    - R
+    - S
+    - E
+    - K
+    - E
+    - Z
+    - A
+  - Size: 10
+    Row:
+    - O
+    - B
+    - P
+    - I
+    - L
+    - A
+    - N
+    - G
+    - V
+    - P
+  - Size: 10
+    Row:
+    - N
+    - L
+    - O
+    - G
+    - C
+    - V
+    - I
+    - H
+    - F
+    - I
+  - Size: 10
+    Row:
+    - O
+    - A
+    - C
+    - E
+    - M
+    - A
+    - R
+    - A
+    - T
+    - N
+  - Size: 10
+    Row:
+    - K
+    - C
+    - F
+    - G
+    - Y
+    - P
+    - Y
+    - G
+    - I
+    - U
+  - Size: 10
+    Row:
+    - E
+    - E
+    - T
+    - S
+    - R
+    - Z
+    - F
+    - M
+    - Z
+    - S
+  - Size: 10
+    Row:
+    - L
+    - S
+    - C
+    - T
+    - U
+    - A
+    - J
+    - P
+    - L
+    - A
+  - Size: 10
+    Row:
+    - I
+    - M
+    - E
+    - F
+    - T
+    - R
+    - C
+    - M
+    - Q
+    - J
+  - Size: 10
+    Row:
+    - N
+    - G
+    - J
+    - B
+    - S
+    - I
+    - T
+    - A
+    - J
+    - L
+  - Size: 10
+    Row:
+    - G
+    - H
+    - K
+    - C
+    - L
+    - H
+    - Z
+    - S
+    - I
+    - M
+  SearchWords:
+  - Word: JATI
+  - Word: PINUS
+  - Word: CEMARA
+  - Word: SONOKELING
+  - Word: PILANG

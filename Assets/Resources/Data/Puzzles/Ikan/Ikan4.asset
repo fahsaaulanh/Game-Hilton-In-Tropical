@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Ikan4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - J
+    - R
+    - I
+    - F
+    - R
+    - M
+    - T
+    - S
+    - L
+  - Size: 10
+    Row:
+    - E
+    - T
+    - X
+    - K
+    - Y
+    - N
+    - N
+    - N
+    - V
+    - A
+  - Size: 10
+    Row:
+    - T
+    - O
+    - L
+    - B
+    - O
+    - A
+    - U
+    - F
+    - N
+    - I
+  - Size: 10
+    Row:
+    - O
+    - X
+    - B
+    - E
+    - T
+    - W
+    - E
+    - T
+    - C
+    - S
+  - Size: 10
+    Row:
+    - P
+    - A
+    - T
+    - Z
+    - L
+    - A
+    - W
+    - X
+    - A
+    - F
+  - Size: 10
+    Row:
+    - R
+    - C
+    - L
+    - E
+    - I
+    - E
+    - U
+    - J
+    - S
+    - E
+  - Size: 10
+    Row:
+    - A
+    - H
+    - A
+    - S
+    - E
+    - J
+    - Z
+    - V
+    - E
+    - N
+  - Size: 10
+    Row:
+    - K
+    - V
+    - E
+    - C
+    - V
+    - O
+    - S
+    - Q
+    - W
+    - H
+  - Size: 10
+    Row:
+    - K
+    - Y
+    - Q
+    - L
+    - S
+    - J
+    - B
+    - K
+    - A
+    - L
+  - Size: 10
+    Row:
+    - U
+    - D
+    - N
+    - U
+    - L
+    - U
+    - B
+    - U
+    - T
+    - B
+  SearchWords:
+  - Word: KETOPRAK
+  - Word: LAIS
+  - Word: LELE
+  - Word: LUNDU
+  - Word: TAWES

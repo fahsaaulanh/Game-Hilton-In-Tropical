@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: IkanLaut2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - I
+    - U
+    - T
+    - E
+    - T
+    - G
+    - K
+    - X
+    - P
+    - J
+  - Size: 10
+    Row:
+    - N
+    - Z
+    - D
+    - R
+    - Y
+    - E
+    - G
+    - B
+    - H
+    - V
+  - Size: 10
+    Row:
+    - J
+    - E
+    - Z
+    - U
+    - R
+    - O
+    - A
+    - L
+    - Q
+    - K
+  - Size: 10
+    Row:
+    - E
+    - G
+    - W
+    - A
+    - S
+    - S
+    - Q
+    - L
+    - Y
+    - U
+  - Size: 10
+    Row:
+    - L
+    - A
+    - P
+    - S
+    - G
+    - A
+    - H
+    - B
+    - H
+    - W
+  - Size: 10
+    Row:
+    - A
+    - U
+    - S
+    - H
+    - V
+    - L
+    - T
+    - R
+    - A
+    - E
+  - Size: 10
+    Row:
+    - A
+    - G
+    - P
+    - H
+    - V
+    - M
+    - A
+    - K
+    - I
+    - T
+  - Size: 10
+    Row:
+    - Z
+    - Y
+    - D
+    - M
+    - M
+    - O
+    - W
+    - G
+    - L
+    - G
+  - Size: 10
+    Row:
+    - E
+    - E
+    - L
+    - W
+    - R
+    - N
+    - N
+    - O
+    - M
+    - S
+  - Size: 10
+    Row:
+    - X
+    - R
+    - B
+    - E
+    - L
+    - I
+    - D
+    - A
+    - I
+    - L
+  SearchWords:
+  - Word: KERAPU
+  - Word: KUWE
+  - Word: BELIDA
+  - Word: INJEL
+  - Word: SALMON

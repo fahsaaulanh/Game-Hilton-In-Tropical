@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ff8a2a5d23858f4ea1ab11e203c01a2, type: 3}
+  m_Name: GameLevelData
+  m_EditorClassIdentifier: 
+  data:
+  - categoryName: Buah
+    boardData:
+    - {fileID: 11400000, guid: 43cd537ff34a1514f883ca649bcab8ce, type: 2}
+    - {fileID: 11400000, guid: c3616906503a4c84593aed04fb0a565d, type: 2}
+    - {fileID: 11400000, guid: 91782569c14b71b4483b02e30449f7c2, type: 2}
+    - {fileID: 11400000, guid: 8e535de5925622e45b2a365b683f39b0, type: 2}
+    - {fileID: 11400000, guid: 19352002fd6badf4e95a292d0c51bce2, type: 2}
+    - {fileID: 11400000, guid: 9e3290b0b9d0f914d806360647cbbd5c, type: 2}
+    - {fileID: 11400000, guid: 288a9868c779403448bd5b6b8766e959, type: 2}
+  - categoryName: Hewan
+    boardData:
+    - {fileID: 11400000, guid: bbd711f73e4a84140b3a0208b8521117, type: 2}
+    - {fileID: 11400000, guid: 5469b77585df3c04fa1ecb66ebb8ca64, type: 2}
+    - {fileID: 11400000, guid: e9b4bbd7eaa35db4292c3cafc4578881, type: 2}
+    - {fileID: 11400000, guid: f3b10e0836f0f4248be9533a4183e97c, type: 2}
+    - {fileID: 11400000, guid: 11fc1c4c782d3934e9f81ab7b1592070, type: 2}
+    - {fileID: 11400000, guid: 0f5d27aafb2578749bd6659581e2f9f6, type: 2}
+    - {fileID: 11400000, guid: 13113b94a15e4714fa3077f9c7a4d9cd, type: 2}
+  - categoryName: IkanLaut
+    boardData:
+    - {fileID: 11400000, guid: 83d8da465a37561458ef93f02a69ad53, type: 2}
+    - {fileID: 11400000, guid: 22b9f13e1e39428468c56fc40eedd540, type: 2}
+    - {fileID: 11400000, guid: 634d062287adfa14b8e316798824b69a, type: 2}
+    - {fileID: 11400000, guid: 2b61a300ad2e3494f9a19b5d0f7794e8, type: 2}
+    - {fileID: 11400000, guid: d03ecce836025704bb26f6d77d8ccb8c, type: 2}
+    - {fileID: 11400000, guid: 8de5cd0d7adf81840b7daaac62f7c62f, type: 2}
+    - {fileID: 11400000, guid: 13113b94a15e4714fa3077f9c7a4d9cd, type: 2}
+  - categoryName: Ikan
+    boardData:
+    - {fileID: 11400000, guid: 3ac849e278db9e146a9a48520c2b6e76, type: 2}
+    - {fileID: 11400000, guid: 7d9bcc8a0fc2fb54289107228ca0aecc, type: 2}
+    - {fileID: 11400000, guid: fca48e8cfed6eeb458cd0873438e9f7a, type: 2}
+    - {fileID: 11400000, guid: 51e3779df6014114b8a8d6ea831243a6, type: 2}
+    - {fileID: 11400000, guid: 855969874a995434383573a75140c3f8, type: 2}
+    - {fileID: 11400000, guid: 2770e06414fef5346b9e11a6a72a2c97, type: 2}
+    - {fileID: 11400000, guid: 573b498c1fa7b7a49a9cbbba12d7f595, type: 2}
+  - categoryName: Tumbuhan
+    boardData:
+    - {fileID: 11400000, guid: 0f57c2030537b2244986c142ce3236c6, type: 2}
+    - {fileID: 11400000, guid: 56381cf8ff1c2344691b07e96e875b2d, type: 2}
+    - {fileID: 11400000, guid: 336f5b2b95836c147937be6a15b4dfd3, type: 2}
+    - {fileID: 11400000, guid: 51e9d2fcdd7c7484caa4cba1b9cad6f1, type: 2}
+    - {fileID: 11400000, guid: 66292acd135ace142b7bcc008c64a093, type: 2}
+    - {fileID: 11400000, guid: a03ab3c0558e30f429daa27dd0bc21ce, type: 2}
+    - {fileID: 11400000, guid: 32462fea50b4415499dc075b8cb3f289, type: 2}

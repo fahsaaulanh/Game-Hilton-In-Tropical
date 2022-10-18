@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Tumbuhan1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - M
+    - R
+    - K
+    - Z
+    - R
+    - D
+    - V
+    - U
+    - K
+    - Z
+  - Size: 10
+    Row:
+    - H
+    - A
+    - C
+    - J
+    - R
+    - X
+    - Q
+    - T
+    - A
+    - O
+  - Size: 10
+    Row:
+    - G
+    - D
+    - N
+    - G
+    - T
+    - B
+    - Q
+    - H
+    - D
+    - G
+  - Size: 10
+    Row:
+    - I
+    - C
+    - F
+    - G
+    - H
+    - Q
+    - E
+    - G
+    - A
+    - H
+  - Size: 10
+    Row:
+    - P
+    - T
+    - I
+    - G
+    - R
+    - F
+    - Z
+    - M
+    - K
+    - O
+  - Size: 10
+    Row:
+    - M
+    - B
+    - A
+    - B
+    - N
+    - O
+    - S
+    - R
+    - A
+    - U
+  - Size: 10
+    Row:
+    - A
+    - B
+    - G
+    - C
+    - M
+    - R
+    - V
+    - V
+    - W
+    - E
+  - Size: 10
+    Row:
+    - L
+    - I
+    - A
+    - C
+    - E
+    - L
+    - B
+    - E
+    - G
+    - M
+  - Size: 10
+    Row:
+    - E
+    - S
+    - E
+    - M
+    - Y
+    - Q
+    - G
+    - Z
+    - S
+    - N
+  - Size: 10
+    Row:
+    - K
+    - W
+    - L
+    - K
+    - E
+    - R
+    - G
+    - G
+    - N
+    - A
+  SearchWords:
+  - Word: MANGROVE
+  - Word: ANGGREK
+  - Word: KADAKA
+  - Word: AGAE
+  - Word: KELAMPIS

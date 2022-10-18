@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: IkanLaut6
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - J
+    - E
+    - L
+    - A
+    - W
+    - A
+    - T
+    - N
+    - Z
+    - S
+  - Size: 10
+    Row:
+    - M
+    - D
+    - O
+    - O
+    - R
+    - V
+    - I
+    - Y
+    - K
+    - M
+  - Size: 10
+    Row:
+    - G
+    - O
+    - Q
+    - E
+    - L
+    - B
+    - F
+    - U
+    - S
+    - G
+  - Size: 10
+    Row:
+    - A
+    - K
+    - P
+    - U
+    - E
+    - L
+    - B
+    - H
+    - E
+    - K
+  - Size: 10
+    Row:
+    - U
+    - G
+    - Q
+    - L
+    - G
+    - U
+    - A
+    - P
+    - L
+    - D
+  - Size: 10
+    Row:
+    - I
+    - Y
+    - I
+    - D
+    - R
+    - P
+    - S
+    - C
+    - U
+    - V
+  - Size: 10
+    Row:
+    - N
+    - D
+    - G
+    - E
+    - H
+    - G
+    - O
+    - E
+    - A
+    - E
+  - Size: 10
+    Row:
+    - A
+    - X
+    - T
+    - C
+    - T
+    - B
+    - P
+    - L
+    - N
+    - K
+  - Size: 10
+    Row:
+    - N
+    - Y
+    - A
+    - S
+    - S
+    - G
+    - D
+    - U
+    - G
+    - H
+  - Size: 10
+    Row:
+    - F
+    - D
+    - A
+    - V
+    - R
+    - U
+    - K
+    - Q
+    - V
+    - X
+  SearchWords:
+  - Word: JELAWAT
+  - Word: BELIDA
+  - Word: TERUBUK
+  - Word: SELUANG
+  - Word: KURO

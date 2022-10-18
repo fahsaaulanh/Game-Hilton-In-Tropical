@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Buah1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - A
+    - U
+    - I
+    - S
+    - X
+    - B
+    - N
+    - Y
+    - M
+    - D
+  - Size: 10
+    Row:
+    - P
+    - K
+    - A
+    - D
+    - V
+    - I
+    - Y
+    - D
+    - A
+    - Z
+  - Size: 10
+    Row:
+    - E
+    - U
+    - G
+    - L
+    - U
+    - P
+    - X
+    - G
+    - L
+    - M
+  - Size: 10
+    Row:
+    - L
+    - H
+    - M
+    - K
+    - B
+    - K
+    - A
+    - F
+    - P
+    - I
+  - Size: 10
+    Row:
+    - L
+    - Z
+    - E
+    - E
+    - E
+    - I
+    - U
+    - W
+    - U
+    - M
+  - Size: 10
+    Row:
+    - L
+    - M
+    - L
+    - V
+    - J
+    - X
+    - M
+    - R
+    - K
+    - L
+  - Size: 10
+    Row:
+    - C
+    - H
+    - O
+    - G
+    - E
+    - Y
+    - H
+    - O
+    - A
+    - T
+  - Size: 10
+    Row:
+    - U
+    - F
+    - N
+    - X
+    - R
+    - V
+    - I
+    - M
+    - T
+    - V
+  - Size: 10
+    Row:
+    - W
+    - M
+    - V
+    - N
+    - D
+    - R
+    - V
+    - K
+    - Z
+    - H
+  - Size: 10
+    Row:
+    - G
+    - T
+    - A
+    - N
+    - G
+    - G
+    - U
+    - R
+    - Z
+    - Q
+  SearchWords:
+  - Word: APEL
+  - Word: ANGGUR
+  - Word: ALPUKAT
+  - Word: MELON
+  - Word: DUKU

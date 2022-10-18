@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Tumbuhan6
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - L
+    - J
+    - U
+    - D
+    - V
+    - E
+    - O
+    - G
+    - I
+    - L
+  - Size: 10
+    Row:
+    - U
+    - U
+    - V
+    - E
+    - J
+    - O
+    - V
+    - R
+    - S
+    - U
+  - Size: 10
+    Row:
+    - M
+    - K
+    - M
+    - I
+    - W
+    - I
+    - N
+    - R
+    - E
+    - M
+  - Size: 10
+    Row:
+    - U
+    - P
+    - R
+    - U
+    - J
+    - W
+    - E
+    - R
+    - B
+    - U
+  - Size: 10
+    Row:
+    - T
+    - J
+    - I
+    - J
+    - T
+    - A
+    - A
+    - E
+    - U
+    - T
+  - Size: 10
+    Row:
+    - K
+    - D
+    - I
+    - N
+    - H
+    - D
+    - Q
+    - D
+    - Y
+    - H
+  - Size: 10
+    Row:
+    - E
+    - Z
+    - U
+    - I
+    - X
+    - M
+    - A
+    - A
+    - A
+    - E
+  - Size: 10
+    Row:
+    - R
+    - W
+    - I
+    - X
+    - B
+    - F
+    - T
+    - U
+    - K
+    - P
+  - Size: 10
+    Row:
+    - A
+    - M
+    - Q
+    - A
+    - H
+    - U
+    - Q
+    - F
+    - N
+    - A
+  - Size: 10
+    Row:
+    - K
+    - R
+    - A
+    - F
+    - L
+    - E
+    - S
+    - I
+    - A
+    - R
+  SearchWords:
+  - Word: LUMUTKERAK
+  - Word: LUMUTDAUN
+  - Word: LUMUTHEPAR
+  - Word: RAFLESIA
+  - Word: KAYUBESI

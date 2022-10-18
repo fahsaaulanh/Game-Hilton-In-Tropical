@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Buah3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - A
+    - D
+    - E
+    - L
+    - I
+    - M
+    - A
+    - T
+    - L
+  - Size: 10
+    Row:
+    - J
+    - B
+    - L
+    - K
+    - H
+    - L
+    - W
+    - I
+    - C
+    - F
+  - Size: 10
+    Row:
+    - L
+    - L
+    - O
+    - P
+    - R
+    - U
+    - G
+    - E
+    - J
+    - Z
+  - Size: 10
+    Row:
+    - A
+    - E
+    - R
+    - B
+    - H
+    - R
+    - M
+    - J
+    - N
+    - L
+  - Size: 10
+    Row:
+    - Z
+    - W
+    - H
+    - C
+    - Y
+    - P
+    - R
+    - G
+    - A
+    - I
+  - Size: 10
+    Row:
+    - A
+    - A
+    - X
+    - W
+    - E
+    - U
+    - J
+    - E
+    - I
+    - M
+  - Size: 10
+    Row:
+    - L
+    - H
+    - Q
+    - D
+    - Z
+    - Q
+    - E
+    - J
+    - R
+    - T
+  - Size: 10
+    Row:
+    - L
+    - Y
+    - A
+    - D
+    - I
+    - F
+    - R
+    - N
+    - U
+    - F
+  - Size: 10
+    Row:
+    - P
+    - K
+    - Y
+    - G
+    - A
+    - J
+    - U
+    - M
+    - D
+    - W
+  - Size: 10
+    Row:
+    - P
+    - M
+    - W
+    - L
+    - A
+    - E
+    - K
+    - F
+    - T
+    - B
+  SearchWords:
+  - Word: BLEWAH
+  - Word: CEMPEDAK
+  - Word: DURIAN
+  - Word: DELIMA
+  - Word: JERUK

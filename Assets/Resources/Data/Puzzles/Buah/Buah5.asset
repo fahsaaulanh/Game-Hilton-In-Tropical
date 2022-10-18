@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Buah5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - H
+    - J
+    - E
+    - I
+    - R
+    - Q
+    - H
+    - U
+    - K
+  - Size: 10
+    Row:
+    - Y
+    - E
+    - F
+    - D
+    - V
+    - H
+    - W
+    - R
+    - E
+    - S
+  - Size: 10
+    Row:
+    - H
+    - G
+    - L
+    - A
+    - V
+    - J
+    - Z
+    - L
+    - M
+    - M
+  - Size: 10
+    Row:
+    - V
+    - N
+    - Q
+    - A
+    - I
+    - K
+    - E
+    - M
+    - W
+    - A
+  - Size: 10
+    Row:
+    - O
+    - K
+    - A
+    - L
+    - P
+    - N
+    - V
+    - L
+    - V
+    - N
+  - Size: 10
+    Row:
+    - M
+    - A
+    - N
+    - G
+    - G
+    - A
+    - Q
+    - Z
+    - B
+    - G
+  - Size: 10
+    Row:
+    - D
+    - P
+    - Z
+    - K
+    - O
+    - D
+    - W
+    - H
+    - K
+    - G
+  - Size: 10
+    Row:
+    - Z
+    - L
+    - E
+    - V
+    - L
+    - E
+    - C
+    - I
+    - Z
+    - I
+  - Size: 10
+    Row:
+    - T
+    - N
+    - X
+    - K
+    - W
+    - I
+    - R
+    - K
+    - Y
+    - S
+  - Size: 10
+    Row:
+    - G
+    - E
+    - Z
+    - H
+    - Y
+    - Z
+    - J
+    - E
+    - L
+    - V
+  SearchWords:
+  - Word: KELAPA
+  - Word: KELENGKENG
+  - Word: LECI
+  - Word: MANGGIS
+  - Word: MANGGA

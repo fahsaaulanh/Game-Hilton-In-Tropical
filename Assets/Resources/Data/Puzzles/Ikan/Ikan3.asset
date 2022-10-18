@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Ikan3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - V
+    - I
+    - M
+    - V
+    - B
+    - W
+    - O
+    - D
+    - D
+    - J
+  - Size: 10
+    Row:
+    - T
+    - O
+    - M
+    - A
+    - N
+    - M
+    - U
+    - Z
+    - M
+    - I
+  - Size: 10
+    Row:
+    - H
+    - C
+    - U
+    - H
+    - R
+    - Y
+    - G
+    - U
+    - M
+    - P
+  - Size: 10
+    Row:
+    - M
+    - F
+    - S
+    - W
+    - S
+    - U
+    - J
+    - Y
+    - A
+    - U
+  - Size: 10
+    Row:
+    - O
+    - L
+    - C
+    - G
+    - R
+    - X
+    - T
+    - W
+    - T
+    - G
+  - Size: 10
+    Row:
+    - K
+    - V
+    - X
+    - A
+    - Z
+    - V
+    - R
+    - M
+    - W
+    - E
+  - Size: 10
+    Row:
+    - P
+    - D
+    - M
+    - C
+    - U
+    - L
+    - S
+    - P
+    - J
+    - O
+  - Size: 10
+    Row:
+    - T
+    - E
+    - J
+    - O
+    - O
+    - R
+    - E
+    - L
+    - E
+    - J
+  - Size: 10
+    Row:
+    - G
+    - S
+    - Y
+    - R
+    - V
+    - Q
+    - D
+    - F
+    - S
+    - I
+  - Size: 10
+    Row:
+    - Z
+    - N
+    - K
+    - A
+    - P
+    - A
+    - R
+    - E
+    - X
+    - B
+  SearchWords:
+  - Word: TOMAN
+  - Word: GUPI
+  - Word: GURAME
+  - Word: KAPAR
+  - Word: JELER

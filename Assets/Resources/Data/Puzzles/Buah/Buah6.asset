@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Buah6
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - V
+    - M
+    - M
+    - A
+    - T
+    - O
+    - A
+    - Y
+    - J
+    - D
+  - Size: 10
+    Row:
+    - K
+    - I
+    - E
+    - H
+    - A
+    - K
+    - G
+    - N
+    - A
+    - N
+  - Size: 10
+    Row:
+    - G
+    - J
+    - S
+    - K
+    - I
+    - U
+    - W
+    - S
+    - A
+    - A
+  - Size: 10
+    Row:
+    - Q
+    - S
+    - T
+    - I
+    - M
+    - Y
+    - Q
+    - T
+    - Z
+    - G
+  - Size: 10
+    Row:
+    - I
+    - I
+    - L
+    - R
+    - R
+    - O
+    - T
+    - J
+    - M
+    - U
+  - Size: 10
+    Row:
+    - D
+    - R
+    - X
+    - M
+    - W
+    - K
+    - W
+    - C
+    - D
+    - M
+  - Size: 10
+    Row:
+    - O
+    - S
+    - M
+    - D
+    - Z
+    - C
+    - A
+    - P
+    - V
+    - V
+  - Size: 10
+    Row:
+    - W
+    - A
+    - P
+    - W
+    - W
+    - S
+    - N
+    - Y
+    - B
+    - G
+  - Size: 10
+    Row:
+    - A
+    - K
+    - L
+    - O
+    - P
+    - W
+    - I
+    - W
+    - A
+    - V
+  - Size: 10
+    Row:
+    - S
+    - Z
+    - O
+    - J
+    - H
+    - O
+    - I
+    - Y
+    - G
+    - T
+  SearchWords:
+  - Word: SIRSAK
+  - Word: NANGKA
+  - Word: SIRKAYA
+  - Word: SAWO
+  - Word: MATOA

@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: IkanLaut5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - B
+    - J
+    - L
+    - M
+    - T
+    - H
+    - S
+    - E
+    - K
+    - F
+  - Size: 10
+    Row:
+    - Z
+    - A
+    - D
+    - N
+    - K
+    - E
+    - C
+    - Q
+    - E
+    - X
+  - Size: 10
+    Row:
+    - M
+    - U
+    - R
+    - V
+    - L
+    - M
+    - U
+    - W
+    - D
+    - T
+  - Size: 10
+    Row:
+    - W
+    - U
+    - O
+    - A
+    - K
+    - P
+    - R
+    - S
+    - U
+    - P
+  - Size: 10
+    Row:
+    - Z
+    - C
+    - Y
+    - N
+    - K
+    - I
+    - H
+    - M
+    - K
+    - T
+  - Size: 10
+    Row:
+    - N
+    - U
+    - L
+    - B
+    - N
+    - U
+    - L
+    - A
+    - A
+    - K
+  - Size: 10
+    Row:
+    - R
+    - P
+    - L
+    - H
+    - R
+    - W
+    - D
+    - N
+    - N
+    - D
+  - Size: 10
+    Row:
+    - R
+    - G
+    - H
+    - K
+    - I
+    - A
+    - S
+    - A
+    - G
+    - Q
+  - Size: 10
+    Row:
+    - T
+    - A
+    - R
+    - A
+    - D
+    - N
+    - E
+    - S
+    - G
+    - C
+  - Size: 10
+    Row:
+    - O
+    - C
+    - A
+    - K
+    - A
+    - L
+    - A
+    - N
+    - G
+    - N
+  SearchWords:
+  - Word: BARAKUDA
+  - Word: SELAYUR
+  - Word: KEDUKANG
+  - Word: SENDARAT
+  - Word: CAKALANG

@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Ikan7
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - A
+    - N
+    - C
+    - R
+    - A
+    - Z
+    - C
+    - Q
+    - L
+  - Size: 10
+    Row:
+    - V
+    - V
+    - J
+    - Z
+    - I
+    - O
+    - P
+    - C
+    - U
+    - U
+  - Size: 10
+    Row:
+    - A
+    - S
+    - B
+    - W
+    - J
+    - S
+    - C
+    - N
+    - A
+    - N
+  - Size: 10
+    Row:
+    - C
+    - E
+    - N
+    - M
+    - Y
+    - O
+    - J
+    - Z
+    - R
+    - U
+  - Size: 10
+    Row:
+    - O
+    - M
+    - E
+    - S
+    - V
+    - A
+    - Q
+    - A
+    - T
+    - K
+  - Size: 10
+    Row:
+    - N
+    - A
+    - N
+    - S
+    - R
+    - G
+    - I
+    - P
+    - B
+    - O
+  - Size: 10
+    Row:
+    - M
+    - H
+    - U
+    - P
+    - X
+    - K
+    - L
+    - L
+    - Z
+    - D
+  - Size: 10
+    Row:
+    - P
+    - Y
+    - A
+    - O
+    - D
+    - T
+    - W
+    - O
+    - Z
+    - K
+  - Size: 10
+    Row:
+    - Y
+    - D
+    - N
+    - T
+    - A
+    - M
+    - B
+    - R
+    - A
+    - R
+  - Size: 10
+    Row:
+    - I
+    - W
+    - R
+    - N
+    - O
+    - I
+    - Z
+    - T
+    - P
+    - X
+  SearchWords:
+  - Word: DOKUN
+  - Word: KANCRA
+  - Word: SEMAH
+  - Word: TAMBRA
+  - Word: LUNJARPADI

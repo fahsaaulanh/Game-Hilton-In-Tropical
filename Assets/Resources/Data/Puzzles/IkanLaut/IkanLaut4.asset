@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: IkanLaut4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - Z
+    - U
+    - R
+    - O
+    - I
+    - B
+    - L
+    - X
+    - B
+    - O
+  - Size: 10
+    Row:
+    - P
+    - X
+    - N
+    - F
+    - E
+    - B
+    - W
+    - Z
+    - U
+    - U
+  - Size: 10
+    Row:
+    - K
+    - P
+    - D
+    - R
+    - Q
+    - A
+    - N
+    - E
+    - L
+    - G
+  - Size: 10
+    Row:
+    - L
+    - E
+    - K
+    - K
+    - U
+    - R
+    - I
+    - G
+    - U
+    - U
+  - Size: 10
+    Row:
+    - K
+    - I
+    - K
+    - G
+    - R
+    - G
+    - I
+    - F
+    - S
+    - U
+  - Size: 10
+    Row:
+    - L
+    - W
+    - U
+    - O
+    - N
+    - S
+    - H
+    - K
+    - B
+    - A
+  - Size: 10
+    Row:
+    - Q
+    - F
+    - R
+    - I
+    - V
+    - M
+    - O
+    - N
+    - U
+    - V
+  - Size: 10
+    Row:
+    - T
+    - N
+    - R
+    - V
+    - O
+    - J
+    - S
+    - D
+    - L
+    - Z
+  - Size: 10
+    Row:
+    - M
+    - A
+    - S
+    - E
+    - L
+    - A
+    - R
+    - B
+    - U
+    - S
+  - Size: 10
+    Row:
+    - H
+    - I
+    - O
+    - O
+    - D
+    - D
+    - K
+    - J
+    - S
+    - T
+  SearchWords:
+  - Word: SELAR
+  - Word: HARING
+  - Word: GIRU
+  - Word: BULUSBULUS
+  - Word: BERKIL

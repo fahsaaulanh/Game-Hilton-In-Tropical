@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Buah8
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - O
+    - Y
+    - X
+    - U
+    - M
+    - J
+    - P
+    - U
+    - J
+  - Size: 10
+    Row:
+    - R
+    - E
+    - U
+    - T
+    - U
+    - M
+    - A
+    - C
+    - A
+    - K
+  - Size: 10
+    Row:
+    - A
+    - Q
+    - U
+    - U
+    - S
+    - I
+    - M
+    - M
+    - G
+    - E
+  - Size: 10
+    Row:
+    - M
+    - M
+    - P
+    - M
+    - U
+    - K
+    - B
+    - J
+    - P
+    - D
+  - Size: 10
+    Row:
+    - B
+    - O
+    - H
+    - P
+    - W
+    - U
+    - U
+    - G
+    - Q
+    - O
+  - Size: 10
+    Row:
+    - U
+    - W
+    - U
+    - C
+    - M
+    - F
+    - A
+    - R
+    - H
+    - N
+  - Size: 10
+    Row:
+    - T
+    - X
+    - Z
+    - E
+    - O
+    - J
+    - I
+    - Z
+    - D
+    - D
+  - Size: 10
+    Row:
+    - A
+    - P
+    - D
+    - N
+    - Z
+    - N
+    - R
+    - T
+    - P
+    - O
+  - Size: 10
+    Row:
+    - N
+    - E
+    - V
+    - A
+    - S
+    - X
+    - J
+    - K
+    - D
+    - N
+  - Size: 10
+    Row:
+    - J
+    - E
+    - R
+    - U
+    - K
+    - B
+    - A
+    - L
+    - I
+    - G
+  SearchWords:
+  - Word: RAMBUTAN
+  - Word: KEDONDONG
+  - Word: JAMBUAIR
+  - Word: JERUKBALI
+  - Word: JAMBUMEDE

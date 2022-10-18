@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Hewan2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - O
+    - M
+    - O
+    - D
+    - O
+    - Q
+    - A
+    - X
+    - Y
+  - Size: 10
+    Row:
+    - P
+    - S
+    - Z
+    - X
+    - R
+    - N
+    - I
+    - L
+    - Q
+    - J
+  - Size: 10
+    Row:
+    - Z
+    - U
+    - M
+    - W
+    - G
+    - J
+    - N
+    - K
+    - M
+    - H
+  - Size: 10
+    Row:
+    - R
+    - I
+    - L
+    - A
+    - S
+    - Z
+    - C
+    - M
+    - O
+    - Q
+  - Size: 10
+    Row:
+    - H
+    - S
+    - Q
+    - R
+    - L
+    - R
+    - T
+    - W
+    - N
+    - H
+  - Size: 10
+    Row:
+    - P
+    - R
+    - Z
+    - R
+    - G
+    - E
+    - D
+    - I
+    - Y
+    - H
+  - Size: 10
+    Row:
+    - L
+    - A
+    - D
+    - H
+    - R
+    - O
+    - O
+    - B
+    - E
+    - N
+  - Size: 10
+    Row:
+    - S
+    - T
+    - J
+    - L
+    - Y
+    - W
+    - T
+    - P
+    - T
+    - T
+  - Size: 10
+    Row:
+    - H
+    - D
+    - C
+    - V
+    - N
+    - Y
+    - Y
+    - N
+    - G
+    - D
+  - Size: 10
+    Row:
+    - G
+    - I
+    - P
+    - A
+    - K
+    - O
+    - D
+    - H
+    - D
+    - N
+  SearchWords:
+  - Word: KOMODO
+  - Word: MALEO
+  - Word: TARSIUS
+  - Word: MONYET
+  - Word: OKAPI

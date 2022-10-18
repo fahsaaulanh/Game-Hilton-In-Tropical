@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Ikan1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - B
+    - A
+    - U
+    - N
+    - G
+    - J
+    - L
+    - Y
+    - H
+  - Size: 10
+    Row:
+    - M
+    - O
+    - I
+    - I
+    - Z
+    - S
+    - D
+    - X
+    - B
+    - F
+  - Size: 10
+    Row:
+    - B
+    - K
+    - A
+    - B
+    - U
+    - T
+    - X
+    - E
+    - E
+    - M
+  - Size: 10
+    Row:
+    - V
+    - Y
+    - X
+    - R
+    - S
+    - S
+    - B
+    - M
+    - L
+    - K
+  - Size: 10
+    Row:
+    - T
+    - B
+    - X
+    - D
+    - W
+    - U
+    - I
+    - H
+    - I
+    - M
+  - Size: 10
+    Row:
+    - W
+    - E
+    - W
+    - W
+    - B
+    - A
+    - T
+    - W
+    - D
+    - B
+  - Size: 10
+    Row:
+    - A
+    - T
+    - P
+    - J
+    - M
+    - H
+    - N
+    - A
+    - A
+    - K
+  - Size: 10
+    Row:
+    - J
+    - O
+    - N
+    - F
+    - L
+    - I
+    - B
+    - A
+    - E
+    - P
+  - Size: 10
+    Row:
+    - J
+    - K
+    - R
+    - M
+    - V
+    - Q
+    - A
+    - H
+    - F
+    - O
+  - Size: 10
+    Row:
+    - F
+    - Z
+    - B
+    - E
+    - T
+    - U
+    - T
+    - U
+    - O
+    - O
+  SearchWords:
+  - Word: ARWANA
+  - Word: BAUNG
+  - Word: BELIDA
+  - Word: BETOK
+  - Word: BETUTU

@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Buah4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - E
+    - R
+    - S
+    - P
+    - G
+    - F
+    - U
+    - S
+    - P
+    - S
+  - Size: 10
+    Row:
+    - Y
+    - T
+    - N
+    - A
+    - N
+    - A
+    - S
+    - S
+    - A
+    - I
+  - Size: 10
+    Row:
+    - F
+    - M
+    - N
+    - W
+    - J
+    - Z
+    - V
+    - L
+    - S
+    - P
+  - Size: 10
+    Row:
+    - R
+    - K
+    - A
+    - W
+    - F
+    - F
+    - A
+    - O
+    - Y
+    - I
+  - Size: 10
+    Row:
+    - P
+    - J
+    - U
+    - R
+    - Q
+    - K
+    - F
+    - R
+    - H
+    - S
+  - Size: 10
+    Row:
+    - E
+    - J
+    - Q
+    - T
+    - K
+    - Q
+    - I
+    - Q
+    - B
+    - A
+  - Size: 10
+    Row:
+    - P
+    - J
+    - C
+    - X
+    - E
+    - I
+    - L
+    - N
+    - L
+    - N
+  - Size: 10
+    Row:
+    - A
+    - A
+    - O
+    - Y
+    - B
+    - K
+    - S
+    - B
+    - K
+    - G
+  - Size: 10
+    Row:
+    - Y
+    - Z
+    - E
+    - P
+    - Y
+    - L
+    - N
+    - A
+    - W
+    - M
+  - Size: 10
+    Row:
+    - A
+    - S
+    - N
+    - O
+    - B
+    - H
+    - V
+    - D
+    - K
+    - R
+  SearchWords:
+  - Word: MARKISA
+  - Word: NANAS
+  - Word: PEPAYA
+  - Word: PISANG
+  - Word: SALAK

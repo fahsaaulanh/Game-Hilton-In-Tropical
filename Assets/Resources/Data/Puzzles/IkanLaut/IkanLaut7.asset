@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: IkanLaut7
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - S
+    - Z
+    - M
+    - D
+    - U
+    - H
+    - M
+    - K
+    - Y
+    - S
+  - Size: 10
+    Row:
+    - G
+    - E
+    - Y
+    - T
+    - W
+    - T
+    - C
+    - V
+    - E
+    - V
+  - Size: 10
+    Row:
+    - N
+    - K
+    - L
+    - V
+    - I
+    - L
+    - G
+    - M
+    - P
+    - I
+  - Size: 10
+    Row:
+    - U
+    - F
+    - O
+    - U
+    - P
+    - T
+    - A
+    - N
+    - G
+    - W
+  - Size: 10
+    Row:
+    - B
+    - H
+    - Z
+    - F
+    - D
+    - R
+    - C
+    - Q
+    - Y
+    - Q
+  - Size: 10
+    Row:
+    - M
+    - M
+    - F
+    - A
+    - A
+    - U
+    - T
+    - C
+    - K
+    - X
+  - Size: 10
+    Row:
+    - E
+    - S
+    - Y
+    - M
+    - B
+    - S
+    - J
+    - L
+    - B
+    - U
+  - Size: 10
+    Row:
+    - K
+    - U
+    - C
+    - C
+    - N
+    - G
+    - N
+    - I
+    - L
+    - U
+  - Size: 10
+    Row:
+    - A
+    - N
+    - F
+    - L
+    - V
+    - I
+    - F
+    - M
+    - F
+    - W
+  - Size: 10
+    Row:
+    - S
+    - E
+    - N
+    - A
+    - N
+    - G
+    - I
+    - N
+    - K
+    - N
+  SearchWords:
+  - Word: SEMARAM
+  - Word: SELUDU
+  - Word: SENANGIN
+  - Word: KEMBUNG
+  - Word: ULING

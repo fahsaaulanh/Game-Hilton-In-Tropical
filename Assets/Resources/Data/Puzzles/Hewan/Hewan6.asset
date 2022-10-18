@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Hewan6
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - B
+    - P
+    - U
+    - L
+    - A
+    - T
+    - M
+    - H
+    - C
+  - Size: 10
+    Row:
+    - E
+    - U
+    - Z
+    - Z
+    - X
+    - G
+    - E
+    - D
+    - D
+    - D
+  - Size: 10
+    Row:
+    - B
+    - W
+    - P
+    - K
+    - T
+    - W
+    - W
+    - N
+    - I
+    - F
+  - Size: 10
+    Row:
+    - U
+    - U
+    - W
+    - U
+    - T
+    - C
+    - V
+    - Z
+    - V
+    - Y
+  - Size: 10
+    Row:
+    - R
+    - V
+    - S
+    - R
+    - K
+    - C
+    - I
+    - O
+    - N
+    - C
+  - Size: 10
+    Row:
+    - U
+    - M
+    - W
+    - B
+    - U
+    - U
+    - R
+    - O
+    - E
+    - A
+  - Size: 10
+    Row:
+    - N
+    - O
+    - U
+    - W
+    - C
+    - G
+    - P
+    - E
+    - C
+    - P
+  - Size: 10
+    Row:
+    - G
+    - H
+    - X
+    - K
+    - I
+    - I
+    - K
+    - U
+    - I
+    - U
+  - Size: 10
+    Row:
+    - M
+    - X
+    - Q
+    - K
+    - N
+    - S
+    - A
+    - L
+    - Y
+    - N
+  - Size: 10
+    Row:
+    - E
+    - Z
+    - R
+    - P
+    - G
+    - E
+    - Z
+    - L
+    - B
+    - G
+  SearchWords:
+  - Word: CAPUNG
+  - Word: BURUNG
+  - Word: KUPUKUPU
+  - Word: ULAT
+  - Word: KUCING

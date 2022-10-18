@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: IkanLaut3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - S
+    - P
+    - L
+    - B
+    - A
+    - N
+    - D
+    - E
+    - N
+    - G
+  - Size: 10
+    Row:
+    - X
+    - A
+    - B
+    - H
+    - R
+    - D
+    - V
+    - F
+    - M
+    - D
+  - Size: 10
+    Row:
+    - E
+    - A
+    - R
+    - S
+    - Q
+    - H
+    - T
+    - M
+    - V
+    - E
+  - Size: 10
+    Row:
+    - R
+    - R
+    - E
+    - D
+    - T
+    - G
+    - O
+    - J
+    - M
+    - M
+  - Size: 10
+    Row:
+    - K
+    - H
+    - E
+    - M
+    - E
+    - J
+    - G
+    - V
+    - N
+    - A
+  - Size: 10
+    Row:
+    - W
+    - L
+    - K
+    - A
+    - P
+    - N
+    - R
+    - L
+    - L
+    - R
+  - Size: 10
+    Row:
+    - U
+    - H
+    - U
+    - N
+    - X
+    - V
+    - J
+    - A
+    - G
+    - U
+  - Size: 10
+    Row:
+    - E
+    - A
+    - W
+    - D
+    - N
+    - J
+    - I
+    - Z
+    - V
+    - G
+  - Size: 10
+    Row:
+    - U
+    - V
+    - G
+    - T
+    - D
+    - M
+    - B
+    - X
+    - J
+    - U
+  - Size: 10
+    Row:
+    - T
+    - S
+    - J
+    - E
+    - M
+    - P
+    - U
+    - L
+    - B
+    - R
+  SearchWords:
+  - Word: SARDEN
+  - Word: GURAME
+  - Word: BANDENG
+  - Word: JEMPUL
+  - Word: AUAU

@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Hewan4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - E
+    - P
+    - A
+    - I
+    - B
+    - D
+    - U
+    - O
+    - A
+  - Size: 10
+    Row:
+    - M
+    - A
+    - C
+    - N
+    - Y
+    - P
+    - H
+    - B
+    - D
+    - F
+  - Size: 10
+    Row:
+    - M
+    - G
+    - S
+    - Q
+    - P
+    - G
+    - Q
+    - N
+    - H
+    - W
+  - Size: 10
+    Row:
+    - X
+    - N
+    - D
+    - U
+    - K
+    - H
+    - O
+    - D
+    - N
+    - J
+  - Size: 10
+    Row:
+    - I
+    - A
+    - Z
+    - V
+    - A
+    - K
+    - H
+    - N
+    - J
+    - O
+  - Size: 10
+    Row:
+    - N
+    - J
+    - W
+    - U
+    - A
+    - R
+    - Y
+    - Y
+    - K
+    - Z
+  - Size: 10
+    Row:
+    - H
+    - I
+    - L
+    - N
+    - U
+    - D
+    - I
+    - E
+    - L
+    - E
+  - Size: 10
+    Row:
+    - Y
+    - K
+    - A
+    - X
+    - O
+    - W
+    - Q
+    - I
+    - L
+    - B
+  - Size: 10
+    Row:
+    - N
+    - A
+    - V
+    - Z
+    - N
+    - R
+    - E
+    - M
+    - D
+    - R
+  - Size: 10
+    Row:
+    - J
+    - E
+    - R
+    - A
+    - P
+    - A
+    - H
+    - F
+    - X
+    - A
+  SearchWords:
+  - Word: ANAKONDA
+  - Word: KASUARI
+  - Word: KIJANG
+  - Word: JERAPAH
+  - Word: ZEBRA

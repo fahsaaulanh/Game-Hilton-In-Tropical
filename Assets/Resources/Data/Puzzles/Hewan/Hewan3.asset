@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Hewan3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - A
+    - S
+    - E
+    - Q
+    - L
+    - F
+    - N
+    - P
+    - M
+    - J
+  - Size: 10
+    Row:
+    - D
+    - M
+    - F
+    - J
+    - S
+    - N
+    - R
+    - K
+    - X
+    - L
+  - Size: 10
+    Row:
+    - U
+    - G
+    - A
+    - P
+    - M
+    - D
+    - P
+    - U
+    - C
+    - L
+  - Size: 10
+    Row:
+    - K
+    - B
+    - L
+    - K
+    - K
+    - E
+    - T
+    - S
+    - X
+    - F
+  - Size: 10
+    Row:
+    - A
+    - F
+    - D
+    - W
+    - A
+    - E
+    - L
+    - K
+    - J
+    - O
+  - Size: 10
+    Row:
+    - I
+    - W
+    - O
+    - K
+    - B
+    - W
+    - D
+    - U
+    - B
+    - V
+  - Size: 10
+    Row:
+    - U
+    - Z
+    - E
+    - C
+    - U
+    - D
+    - G
+    - S
+    - B
+    - Q
+  - Size: 10
+    Row:
+    - D
+    - K
+    - U
+    - K
+    - A
+    - N
+    - G
+    - T
+    - S
+    - Q
+  - Size: 10
+    Row:
+    - F
+    - B
+    - B
+    - I
+    - L
+    - W
+    - B
+    - Y
+    - B
+    - O
+  - Size: 10
+    Row:
+    - G
+    - C
+    - F
+    - N
+    - R
+    - A
+    - U
+    - G
+    - A
+    - J
+  SearchWords:
+  - Word: KUDA
+  - Word: KUKANG
+  - Word: JAGUAR
+  - Word: MAKAW
+  - Word: KUSKUS

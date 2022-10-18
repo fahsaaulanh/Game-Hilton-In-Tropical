@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Buah7
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - R
+    - V
+    - G
+    - B
+    - U
+    - K
+    - R
+    - I
+    - N
+    - U
+  - Size: 10
+    Row:
+    - K
+    - N
+    - D
+    - A
+    - M
+    - D
+    - J
+    - I
+    - F
+    - N
+  - Size: 10
+    Row:
+    - K
+    - F
+    - A
+    - N
+    - L
+    - Z
+    - O
+    - P
+    - K
+    - R
+  - Size: 10
+    Row:
+    - M
+    - D
+    - S
+    - G
+    - E
+    - P
+    - Q
+    - V
+    - E
+    - M
+  - Size: 10
+    Row:
+    - S
+    - I
+    - U
+    - B
+    - A
+    - R
+    - A
+    - W
+    - P
+    - J
+  - Size: 10
+    Row:
+    - P
+    - K
+    - E
+    - R
+    - S
+    - E
+    - N
+    - K
+    - E
+    - B
+  - Size: 10
+    Row:
+    - A
+    - S
+    - K
+    - E
+    - L
+    - A
+    - J
+    - K
+    - L
+    - N
+  - Size: 10
+    Row:
+    - J
+    - F
+    - V
+    - K
+    - O
+    - K
+    - O
+    - S
+    - A
+    - N
+  - Size: 10
+    Row:
+    - A
+    - K
+    - Z
+    - K
+    - Y
+    - I
+    - H
+    - E
+    - W
+    - P
+  - Size: 10
+    Row:
+    - M
+    - J
+    - Z
+    - W
+    - F
+    - K
+    - I
+    - R
+    - M
+    - Z
+  SearchWords:
+  - Word: NAGA
+  - Word: KEPEL
+  - Word: KERSEN
+  - Word: KOKOSAN
+  - Word: MAJA

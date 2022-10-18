@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Tumbuhan3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - P
+    - U
+    - L
+    - J
+    - A
+    - Z
+    - Y
+    - F
+    - T
+    - N
+  - Size: 10
+    Row:
+    - A
+    - O
+    - M
+    - E
+    - L
+    - A
+    - T
+    - I
+    - A
+    - R
+  - Size: 10
+    Row:
+    - L
+    - E
+    - N
+    - Z
+    - G
+    - B
+    - K
+    - C
+    - O
+    - A
+  - Size: 10
+    Row:
+    - E
+    - W
+    - N
+    - Z
+    - Q
+    - W
+    - A
+    - M
+    - V
+    - R
+  - Size: 10
+    Row:
+    - M
+    - O
+    - P
+    - Q
+    - P
+    - L
+    - T
+    - K
+    - I
+    - E
+  - Size: 10
+    Row:
+    - Y
+    - D
+    - I
+    - O
+    - U
+    - H
+    - R
+    - M
+    - O
+    - T
+  - Size: 10
+    Row:
+    - L
+    - M
+    - Q
+    - T
+    - B
+    - K
+    - A
+    - S
+    - X
+    - S
+  - Size: 10
+    Row:
+    - E
+    - T
+    - R
+    - O
+    - S
+    - Y
+    - W
+    - B
+    - N
+    - N
+  - Size: 10
+    Row:
+    - D
+    - O
+    - G
+    - M
+    - J
+    - C
+    - A
+    - E
+    - J
+    - O
+  - Size: 10
+    Row:
+    - P
+    - I
+    - C
+    - T
+    - G
+    - O
+    - M
+    - P
+    - P
+    - M
+  SearchWords:
+  - Word: PALEM
+  - Word: MONSTERA
+  - Word: PORTULACA
+  - Word: MELATI
+  - Word: MAWAR

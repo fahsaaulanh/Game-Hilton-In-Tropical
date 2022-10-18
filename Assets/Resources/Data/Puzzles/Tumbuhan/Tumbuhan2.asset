@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Tumbuhan2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - E
+    - U
+    - K
+    - A
+    - L
+    - I
+    - P
+    - T
+    - U
+    - S
+  - Size: 10
+    Row:
+    - B
+    - J
+    - X
+    - Z
+    - X
+    - W
+    - Y
+    - N
+    - T
+    - B
+  - Size: 10
+    Row:
+    - Q
+    - H
+    - Z
+    - F
+    - P
+    - H
+    - Z
+    - I
+    - I
+    - Z
+  - Size: 10
+    Row:
+    - V
+    - I
+    - J
+    - K
+    - Z
+    - X
+    - C
+    - N
+    - S
+    - I
+  - Size: 10
+    Row:
+    - Q
+    - R
+    - D
+    - P
+    - K
+    - T
+    - T
+    - K
+    - X
+    - A
+  - Size: 10
+    Row:
+    - Y
+    - I
+    - X
+    - P
+    - U
+    - A
+    - L
+    - A
+    - P
+    - T
+  - Size: 10
+    Row:
+    - I
+    - N
+    - X
+    - T
+    - R
+    - Q
+    - N
+    - D
+    - S
+    - A
+  - Size: 10
+    Row:
+    - F
+    - W
+    - F
+    - O
+    - M
+    - T
+    - H
+    - F
+    - J
+    - R
+  - Size: 10
+    Row:
+    - T
+    - E
+    - R
+    - U
+    - N
+    - T
+    - U
+    - M
+    - B
+    - E
+  - Size: 10
+    Row:
+    - Y
+    - O
+    - K
+    - H
+    - F
+    - F
+    - O
+    - J
+    - K
+    - T
+  SearchWords:
+  - Word: EUKALIPTUS
+  - Word: BINTARO
+  - Word: NIRIH
+  - Word: TERUNTUM
+  - Word: TERATAI

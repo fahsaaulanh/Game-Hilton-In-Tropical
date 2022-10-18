@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe0971e19b06514fbdc4112d49af4be, type: 3}
+  m_Name: Hewan7
+  m_EditorClassIdentifier: 
+  timeInSeconds: 45
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - Q
+    - L
+    - N
+    - N
+    - S
+    - B
+    - R
+    - Z
+    - C
+    - Y
+  - Size: 10
+    Row:
+    - K
+    - E
+    - R
+    - B
+    - A
+    - U
+    - S
+    - G
+    - Q
+    - L
+  - Size: 10
+    Row:
+    - H
+    - W
+    - V
+    - S
+    - J
+    - H
+    - O
+    - P
+    - L
+    - K
+  - Size: 10
+    Row:
+    - G
+    - P
+    - A
+    - Z
+    - H
+    - R
+    - P
+    - M
+    - E
+    - X
+  - Size: 10
+    Row:
+    - V
+    - D
+    - Q
+    - U
+    - I
+    - I
+    - W
+    - H
+    - M
+    - L
+  - Size: 10
+    Row:
+    - D
+    - I
+    - B
+    - L
+    - Y
+    - M
+    - Z
+    - S
+    - U
+    - S
+  - Size: 10
+    Row:
+    - J
+    - Q
+    - A
+    - C
+    - O
+    - Z
+    - K
+    - G
+    - R
+    - H
+  - Size: 10
+    Row:
+    - M
+    - X
+    - U
+    - T
+    - S
+    - X
+    - E
+    - E
+    - A
+    - I
+  - Size: 10
+    Row:
+    - S
+    - N
+    - A
+    - C
+    - A
+    - M
+    - T
+    - K
+    - R
+    - Z
+  - Size: 10
+    Row:
+    - A
+    - Q
+    - K
+    - J
+    - Z
+    - B
+    - K
+    - V
+    - V
+    - A
+  SearchWords:
+  - Word: GORILA
+  - Word: LEMUR
+  - Word: KERA
+  - Word: MACAN
+  - Word: KERBAU
